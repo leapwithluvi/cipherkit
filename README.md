@@ -1,4 +1,4 @@
-# 🔐 CipherKit CTF — Python Cryptography Toolkit for CTF
+# CipherKit CTF — Python Cryptography Toolkit for CTF
 
 > **Offline CLI tool** untuk encode & decode 26+ cipher/encoding — dibuat khusus untuk persiapan lomba CTF, tanpa butuh internet atau website online.
 
@@ -13,20 +13,20 @@
 
 ---
 
-## ✨ Fitur
+## Fitur
 
-- ✅ **26+ cipher & encoding** dalam satu file Python
-- ✅ **Mode interaktif** — navigasi dengan menu bernomor
-- ✅ **Mode CLI** — langsung dari terminal, cocok untuk skripting cepat
-- ✅ **Auto Detect** — tidak tahu formatnya? biarkan tool yang tebak
-- ✅ **Brute Force** — Caesar & XOR single-byte otomatis
-- ✅ **RSA helper** — encrypt, decrypt, dan cari private key `d`
-- ✅ **Zero dependency** — hanya Python 3 standard library
-- ✅ **100% offline** — tidak butuh internet sama sekali
+- **26+ cipher & encoding** dalam satu file Python
+- **Mode interaktif** — navigasi dengan menu bernomor
+- **Mode CLI** — langsung dari terminal, cocok untuk skripting cepat
+- **Auto Detect** — tidak tahu formatnya? biarkan tool yang tebak
+- **Brute Force** — Caesar & XOR single-byte otomatis
+- **RSA helper** — encrypt, decrypt, dan cari private key `d`
+- **Zero dependency** — hanya Python 3 standard library
+- **100% offline** — tidak butuh internet sama sekali
 
 ---
 
-## 🚀 Cara Pakai
+## Cara Pakai
 
 ### Mode Interaktif (Rekomendasi)
 
@@ -143,7 +143,7 @@ python3 crypto_ctf.py
 
 ---
 
-## 📁 Struktur
+## Struktur
 
 ```
 cipherkit/
@@ -153,7 +153,7 @@ cipherkit/
 
 ---
 
-## 🏆 Dibuat Untuk
+## Dibuat Untuk
 
 - Track Cybersecurity / CTF
 - Kompetisi CTF lainnya yang membatasi akses internet
@@ -161,6 +161,6 @@ cipherkit/
 
 ---
 
-## 📄 License
+## License
 
 MIT License — bebas dipakai, dimodifikasi, dan dibagikan.
